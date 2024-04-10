@@ -10,7 +10,7 @@ const IndexPage: React.FC<PageProps> = () => {
       <Nav.Container>
         <Nav.Item to="/banner/">Баннеры</Nav.Item>
         <Nav.Item to="/fullscreen/">Полноэкранный</Nav.Item>
-        <Nav.Item to="/floor-ad/" >Floor Ad</Nav.Item>
+        <Nav.Item to="/floor-ad/">Floor Ad</Nav.Item>
         <Nav.Item to="/feed/">Лента</Nav.Item>
       </Nav.Container>
     </Layout>

@@ -14,4 +14,4 @@ const Fullscreen = () => {
 
 export default Fullscreen;
 
-export const Head: HeadFC = () => <title>Баннеры</title>
+export const Head: HeadFC = () => <title>Полноэкранный</title>

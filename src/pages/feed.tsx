@@ -14,4 +14,4 @@ const BannerPage = () => {
 
 export default BannerPage;
 
-export const Head: HeadFC = () => <title>Баннеры</title>
+export const Head: HeadFC = () => <title>Лента</title>
